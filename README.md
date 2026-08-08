@@ -8,16 +8,9 @@ performance, lending activity, repayment behavior, and borrower trends.
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard 
 
-### Summary Dashboard
-Page 1
-<img width="1275" height="717" alt="Summary_page1" src="https://github.com/user-attachments/assets/1dddb359-55c4-4c71-8215-16c0394cc337" />
-
-
-### Overview Dashboard
-Page 2
-<img width="1276" height="713" alt="Overview_page2" src="https://github.com/user-attachments/assets/811a8877-30bb-4e3b-9957-b50f6706ff63" />
+https://github.com/user-attachments/assets/a356b655-5655-428e-9325-a4f8582199fe
 
 ---
 
